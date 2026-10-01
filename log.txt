@@ -1,0 +1,29 @@
+30/9/2026 18:47:03 - Operacion: ALTA - Tabla: Animales - Detalle: Nombre: Choripan, Especie: 1
+30/9/2026 19:51:57 - Operacion: ALTA - Tabla: Animales - Detalle: Nombre: Sam, Especie: 1
+30/9/2026 21:58:57 - Operacion: ALTA - Tabla: Animales - Detalle: Nombre: Sam, Especie: 2
+30/9/2026 23:25:25 - Operacion: ACTUALIZACION - Tabla: Animales - Detalle: ID modificado: 2, Nuevo Nombre: Sam, Nueva Especie: 3
+30/9/2026 23:25:54 - Operacion: ALTA - Tabla: Animales - Detalle: Nombre: Clara, Especie: 4
+30/9/2026 23:26:11 - Operacion: BAJA - Tabla: Animales - Detalle: ID eliminado: 3
+1/10/2026 13:07:20 - Operacion: ALTA - Tabla: Evento - Detalle: Descripcion: Evento, Escala: 1
+1/10/2026 13:11:53 - Operacion: ALTA - Tabla: Evento - Detalle: Descripcion: Evento2, Escala: 2
+1/10/2026 13:14:10 - Operacion: ACTUALIZACION - Tabla: Evento - Detalle: ID modificado: 1, Nueva Descripcion: Evento1, Nueva Escala: 1
+1/10/2026 13:14:38 - Operacion: ALTA - Tabla: HistoriaClinica - Detalle: Animal: 1, Evento: 1, Fecha: 01-10-2026
+1/10/2026 13:15:39 - Operacion: ALTA - Tabla: HistoriaClinica - Detalle: Animal: 2, Evento: 1, Fecha: 10-01-2026
+1/10/2026 13:18:48 - Operacion: ACTUALIZACION - Tabla: HistoriaClinica - Detalle: ID modificado: 2, Animal: 1
+1/10/2026 13:37:06 - Operacion: ALTA - Tabla: HistoriaClinica - Detalle: Animal: 2, Evento: 2, Fecha: 2026-10-04
+1/10/2026 13:45:55 - Operacion: ALTA - Tabla: HistoriaClinica - Detalle: Animal: 1, Evento: 1, Fecha: 2026-10-29
+1/10/2026 13:47:38 - Operacion: ACTUALIZACION - Tabla: HistoriaClinica - Detalle: ID modificado: 6, Animal: 1
+1/10/2026 14:40:50 - Operacion: ALTA - Tabla: Animales - Detalle: Nombre: Oreo, Especie: 10
+1/10/2026 14:41:05 - Operacion: ACTUALIZACION - Tabla: Animales - Detalle: ID modificado: 5, Nuevo Nombre: Oreo, Nueva Especie: 11
+1/10/2026 14:41:14 - Operacion: BAJA - Tabla: Animales - Detalle: ID eliminado: 5
+1/10/2026 14:41:20 - Operacion: BAJA - Tabla: Animales - Detalle: ID eliminado: 4
+1/10/2026 14:41:29 - Operacion: ALTA - Tabla: Animales - Detalle: Nombre: Clara, Especie: 4
+1/10/2026 14:41:41 - Operacion: ACTUALIZACION - Tabla: Animales - Detalle: ID modificado: 6, Nuevo Nombre: Clara, Nueva Especie: 2
+1/10/2026 14:42:01 - Operacion: ALTA - Tabla: Evento - Detalle: Descripcion: Castracion, Escala: 10
+1/10/2026 14:42:21 - Operacion: ALTA - Tabla: Evento - Detalle: Descripcion: Castracion, Escala: 10
+1/10/2026 14:42:43 - Operacion: BAJA - Tabla: Evento - Detalle: ID eliminado: 4
+1/10/2026 14:42:59 - Operacion: ACTUALIZACION - Tabla: Evento - Detalle: ID modificado: 3, Nueva Descripcion: Consulta, Nueva Escala: 10
+1/10/2026 14:46:47 - Operacion: ALTA - Tabla: HistoriaClinica - Detalle: Animal: 2, Evento: 3, Fecha: 2026-10-05
+1/10/2026 14:47:20 - Operacion: ALTA - Tabla: HistoriaClinica - Detalle: Animal: 1, Evento: 1, Fecha: 2026-10-06
+1/10/2026 14:47:57 - Operacion: ACTUALIZACION - Tabla: HistoriaClinica - Detalle: ID modificado: 8, Animal: 1
+1/10/2026 14:48:00 - Operacion: BAJA - Tabla: HistoriaClinica - Detalle: ID eliminado: 8
